@@ -1,2 +1,5 @@
-# Radar-arduino
-A simple radar project that uses the ultrasonic sensor built with arduino (this was also my first time using an arduino board)
+# Arduino Radar System Project 🚨
+
+## Project Overview
+This was my first introduction to arduino or microcontrollers and was built in a week. It utilizes an ultrasonic sensor to detect objects, a 9g servo to to make the sensor rotate around 180 degree, an oled display to show position of the detected object and a buzzer to alert when the object gets detected.
+
